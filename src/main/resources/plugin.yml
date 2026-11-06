@@ -1,0 +1,9 @@
+name: NarutoAddon
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  naruto:
+    description: Abre o menu de tecnicas ninja.
+    usage: /naruto
+    aliases: [ninja, jutsu]
